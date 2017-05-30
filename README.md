@@ -1,3 +1,12 @@
-# Contributing
+## Usage
+* gulp --file PATH_TO_PBIVIZ
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Available tasks
+* **checkCSS**         StyleLint for package content, [--path PATH] for different files
+* **checkPackage**     JSONSchema for package content, [--path PATH] for different files, [--ms] for Microsoft packages
+* **checkSecurityJS**  ScanJS for package content, [--path PATH] for different files
+* **checkTS**          TSLint for package content, [--path PATH] for different files
+* **clean**            remove temp package directory ./.tmp/
+* **help**             Display help text.
+* **unpack**           Unpack Package
+* **validate**         Validate pbiviz Package [--file PATH] for package file, [--ms] for Microsoft packages
