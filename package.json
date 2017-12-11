@@ -26,8 +26,8 @@
     "jsonschema": "1.0.1",
     "request": "2.83.0",
     "run-sequence": "1.1.2",
-    "tslint": "5.8.0",
-    "typescript": "2.6.2",
+    "tslint": "3.3.0",
+    "typescript": "1.7.5",
     "yargs": "3.32.0",
     "glob": "7.0.3",
     "gulp-cli": "1.2.2"
