@@ -1,3 +1,6 @@
+# DEPRECATED
+> This repository is no longer maintained
+
 ## Usage
 * gulp --file PATH_TO_PBIVIZ
 
